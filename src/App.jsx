@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './pages/home/home'
+import Home from './pages/home/Home'
 import { BrowserRouter, Routes,Route } from 'react-router-dom'
 import Nav from './components/nav/Nav'
 import Footer from './components/footer/Footer'
